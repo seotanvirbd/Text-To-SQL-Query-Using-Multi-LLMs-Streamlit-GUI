@@ -4,7 +4,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-GUI-FF4B4B)](https://streamlit.io/)
 [![LangChain](https://img.shields.io/badge/LangChain-Framework-lightgrey)](https://www.langchain.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1)](https://www.mysql.com/)
-
+![Text to SQL with GUI](https://github.com/seotanvirbd/Text-To-SQL-Query-Using-Multi-LLMs-Streamlit-GUI/blob/main/Chatting_datbase_gui.png)
 ## 🚀 Project Overview
 
 This project leverages the power of Large Language Models (LLMs) to transform natural language questions into SQL queries, execute them against a MySQL database, and present the results in a user-friendly format. The application features a Streamlit GUI for seamless interaction.
