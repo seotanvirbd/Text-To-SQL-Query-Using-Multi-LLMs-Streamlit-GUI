@@ -23,7 +23,7 @@ This project leverages the power of Large Language Models (LLMs) to transform na
 - **LangChain**: LLM integration framework
 - **MySQL**: Database system
 - **LLM Models**: gemini-1.5-flash, gemini-1.5-pro, llama3, mixtral-8x7b-32768
-
+![text to sql mechanism image](https://github.com/seotanvirbd/Text-To-SQL-Query-Using-Multi-LLMs-Streamlit-GUI/blob/main/Chat_datbase_using_LLMS.png)
 ## 🔧 Installation & Setup
 
 1. Clone the repository:
